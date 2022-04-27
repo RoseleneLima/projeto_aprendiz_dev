@@ -1,0 +1,20 @@
+Baseado em 4 pilares: decomposição, reconhecimento de padrões, abstração e design de algoritmos.
+
+Habilidades: raciocinio lógico e aperfeiçoamento.
+
+Decomposição -> Primeiro passo para a resolução de problemas dentro do conceito de pensamento computacional.
+Estratégias: análise e sintese
+Ordem de execução: sequencial ou paralelo.
+Como decompor? Entendendo o problema
+Componentes, identificar, caracteristicas, dependências
+
+2º plano - Problema principal
+Identificar ou coletar dados, agregar os dados e funcionalidade.
+
+Reconhecimento de padrões: similaridades e diferenças
+Modelo base
+Estrutura invariante
+Repetição
+
+Porque determinar padrões?
+Precisa generalizar com o objetivo de obter resolução para problemas diferentes.

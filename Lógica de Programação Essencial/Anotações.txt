@@ -1,0 +1,4 @@
+A lógica nada mais é do que a coerência de raciocinio, de idéias com sequência coerente, regular e necessária para que as coisas aconteçam.
+Já a lógica de programação significa contextualizar a lógica na programação de computadores, buscando ações de forma sequêncial que melhor se ajuste na solução de um problema.
+
+Utiliza-se no entendimento dessa lógica pontos como Abstração, algoritmos, fluxogramas, pseudocódigos entre outros..

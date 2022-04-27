@@ -1,0 +1,22 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal estendido para otimizar o uso do Git.
+
+A introdução ao Git/GitHub da DIO ensina várias formas de utilizar o Git e o GitHub de maneira simples e objetiva.
+Comandos utilizados frequentemente:
+Windows(sheel)     Linux(basch)
+- CD                - CD
+- DIR  		    - LS
+- MKDIR		    - MKDIR
+- DEL/RMKDIR	    - RM --RF
+
+* Abrir o terminal
+Janela do windows + CMD
+* Navegar entre pastas
+CD /
+* Retormar a pasta raiz
+CD ..
+* Limpar tela
+CLS (clear screen)
+* Autocompletar
+TAB + a primeira letra do arquivo
+
